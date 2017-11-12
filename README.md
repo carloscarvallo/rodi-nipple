@@ -19,6 +19,7 @@ npm install
 ```bash
 npm start
 ```
+RoDI Nipple is now running on http://localhost:8080
 
 ## Build To Dist Folder
 ```bash
