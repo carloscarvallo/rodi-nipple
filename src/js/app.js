@@ -1,6 +1,6 @@
 import nipple from 'nipplejs'
 
-(function() {
+(function( nipple ) {
 
     var rodi = {
         url: 'http://192.168.4.1:1234/',
