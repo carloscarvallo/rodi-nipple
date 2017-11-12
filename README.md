@@ -12,7 +12,7 @@ RoDI Nipple is the combination of the great library nipplejs http://yoannmoinet.
 npm install 
 ```
 
-## Run Dev Server
+## Invoke Frontend
 ```bash
 npm start
 ```
