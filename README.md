@@ -5,7 +5,7 @@ Little Joystick Frontend for RoDI (Robot Didáctico inalámbrico) wireless robot
 RoDI Nipple is the combination of the great library nipplejs http://yoannmoinet.github.io/nipplejs/ and the RoDI HTTP capabilities
 
 ### Version
-0.0.1
+0.1.0
 
 ## Install Dependencies
 ```bash
