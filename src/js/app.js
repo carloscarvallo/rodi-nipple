@@ -1,7 +1,7 @@
 import nipple from 'nipplejs'
 import css from '../css/style.css'
 
-(function() {
+(function( nipple ) {
 
     /**
      * Rodi is the object that contains actions that Rodi can do (not all of them yet)
